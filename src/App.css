@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: azure;
 }
 
 .App-logo {
@@ -35,4 +36,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+.cardstyle
+{
+  width: auto;
+  margin-left: 30%;
+  margin-right: 35%;
+  margin-top: 35px;
+  margin-bottom: 30px;
+}
+@media screen  and (max-width:768px){
+  .image
+  {
+    height: 300px;
+    
+  }
+
+  
 }
